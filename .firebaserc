@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "coffeerun-55756",
+    "default": "coffeerun-55756"
+  },
+  "targets": {}
+}
